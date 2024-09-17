@@ -7,7 +7,6 @@ describe('Station02', () => {
     const git = simpleGit()
     const logs = await git.log()
     const result = logs.all.some((log) => log.message === expectedMessage)
-
     expect(result).toBeTruthy()
   })
 })
