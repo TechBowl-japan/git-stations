@@ -1,0 +1,338 @@
+[
+  {
+      "id": "tokaido1",
+      "name": "東海道線（熱海〜豊橋）",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10011&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9025"
+  },
+  {
+      "id": "tokaido2",
+      "name": "東海道線（豊橋〜米原）",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10001&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9013"
+  },
+  {
+      "id": "tyuo",
+      "name": "中央線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10003&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9014"
+  },
+  {
+      "id": "kansai",
+      "name": "関西線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10006&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9026"
+  },
+  {
+      "id": "kisei",
+      "name": "紀勢線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10007&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9015"
+  },
+  {
+      "id": "takayama",
+      "name": "高山線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10004&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9027"
+  },
+  {
+      "id": "taketoyo",
+      "name": "武豊線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10002&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9028"
+  },
+  {
+      "id": "iida",
+      "name": "飯田線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10010&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9029"
+  },
+  {
+      "id": "ota",
+      "name": "太田線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10005&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9030"
+  },
+  {
+      "id": "gotenba",
+      "name": "御殿場線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10013&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9031"
+  },
+  {
+      "id": "minobu",
+      "name": "身延線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10012&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9032"
+  },
+  {
+      "id": "sangu",
+      "name": "参宮線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10008&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9033"
+  },
+  {
+      "id": "meisho",
+      "name": "名松線",
+      "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=10009&lang=ja",
+      "detail_selector": ".shosai-bun",
+      "station_selector": ".station",
+      "affected_line_id": "9034"
+  },
+  {
+    "id": "central_shinano",
+    "name": "特急「しなの号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30002&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9016"
+  },
+  {
+    "id": "central_hida",
+    "name": "特急「ひだ号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30001&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9017"
+  },
+  {
+    "id": "central_nanki",
+    "name": "特急「南紀号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30003&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9018"
+  },
+  {
+    "id": "central_mie",
+    "name": "快速「みえ号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30008&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9018"
+  },
+  {
+    "id": "central_shirasagi",
+    "name": "特急「しらさぎ号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30006&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9021"
+  },
+  {
+    "id": "central_inaji",
+    "name": "特急「伊那路号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30004&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9020"
+  },
+  {
+    "id": "central_fujikawa",
+    "name": "特急「ふじかわ号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30005&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9019"
+  },
+  {
+    "id": "central_fujisan",
+    "name": "特急「ふじさん号」",
+    "url": "https://traininfo.jr-central.co.jp/zairaisen/status_detail.html?line=30007&lang=ja",
+    "detail_selector": ".shosai-bun",
+    "station_selector": ".station",
+    "affected_line_id": "9023"
+  },
+  {
+      "id": "metro_ginza",
+      "name": "東京メトロ銀座線",
+      "url": "https://www.tokyometro.jp/unkou/history/ginza.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6001"
+    },
+    {
+      "id": "metro_marunouchi",
+      "name": "東京メトロ丸ノ内線",
+      "url": "https://www.tokyometro.jp/unkou/history/marunouchi.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6002"
+    },
+    {
+      "id": "metro_hibiya",
+      "name": "東京メトロ日比谷線",
+      "url": "https://www.tokyometro.jp/unkou/history/hibiya.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6003"
+    },
+    {
+      "id": "metro_tozai",
+      "name": "東京メトロ東西線",
+      "url": "https://www.tokyometro.jp/unkou/history/touzai.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6005"
+    },
+    {
+      "id": "metro_chiyoda",
+      "name": "東京メトロ千代田線",
+      "url": "https://www.tokyometro.jp/unkou/history/chiyoda.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6004"
+    },
+    {
+      "id": "metro_yurakucho",
+      "name": "東京メトロ有楽町線",
+      "url": "https://www.tokyometro.jp/unkou/history/yurakucho.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6006"
+    },
+    {
+      "id": "metro_hanzoumon",
+      "name": "東京メトロ半蔵門線",
+      "url": "https://www.tokyometro.jp/unkou/history/hanzoumon.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6007"
+    },
+    {
+      "id": "metro_nanboku",
+      "name": "東京メトロ南北線",
+      "url": "https://www.tokyometro.jp/unkou/history/nanboku.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6008"
+    },
+    {
+      "id": "metro_fukutoshin",
+      "name": "東京メトロ副都心線",
+      "url": "https://www.tokyometro.jp/unkou/history/fukutoshin.html",
+      "detail_selector": ".v2_unkouReportTxt p",
+      "affected_line_id": "6009"
+    },
+    
+    {
+      "id": "asakusa",
+      "name": "都営浅草線",
+      "url": "https://www.kotsu.metro.tokyo.jp/subway/schedule/",
+      "detail_selector": ".operation__item:nth-of-type(1) .operation__info",
+      "history_link": "/subway/schedule/asakusa_log.html",
+      "affected_line_id": "4001"
+  },
+  {
+      "id": "mita",
+      "name": "都営三田線",
+      "url": "https://www.kotsu.metro.tokyo.jp/subway/schedule/",
+      "detail_selector": ".operation__item:nth-of-type(2) .operation__info",
+      "history_link": "/subway/schedule/mita_log.html",
+      "affected_line_id": "4002"
+  },
+  {
+      "id": "shinjuku",
+      "name": "都営新宿線",
+      "url": "https://www.kotsu.metro.tokyo.jp/subway/schedule/",
+      "detail_selector": ".operation__item:nth-of-type(3) .operation__info",
+      "history_link": "/subway/schedule/shinjuku_log.html",
+      "affected_line_id": "4003"
+  },
+  {
+      "id": "oedo",
+      "name": "都営大江戸線",
+      "url": "https://www.kotsu.metro.tokyo.jp/subway/schedule/",
+      "detail_selector": ".operation__item:nth-of-type(4) .operation__info",
+      "history_link": "/subway/schedule/oedo_log.html",
+      "affected_line_id": "4004"
+  },
+  {
+    "id": "tokyu_ty",
+    "name": "東急東横線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.ty .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9001"
+},
+{
+    "id": "tokyu_mg",
+    "name": "東急目黒線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.mg .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9002"
+},
+{
+    "id": "tokyu_sh",
+    "name": "東急新横浜線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.sh .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9003"
+},
+{
+    "id": "tokyu_dt",
+    "name": "東急田園都市線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.dt .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9004"
+},
+{
+    "id": "tokyu_om",
+    "name": "東急大井町線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.om .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9005"
+},
+{
+    "id": "tokyu_ik",
+    "name": "東急池上線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.ik .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9006"
+},
+{
+    "id": "tokyu_tm",
+    "name": "東急多摩川線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.tm .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9007"
+},
+{
+    "id": "tokyu_sg",
+    "name": "東急世田谷線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.sg .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9008"
+},
+{
+    "id": "tokyu_kd",
+    "name": "東急こどもの国線",
+    "url": "https://www.tokyu.co.jp/unten2/unten.html",
+    "detail_selector": "tr.kd .status",
+    "station_selector": "th.line-info_title span",
+    "affected_line_id": "9009"
+}
+]
