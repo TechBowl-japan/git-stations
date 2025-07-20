@@ -7,6 +7,15 @@
   text-decoration: none;
 }
 
+footer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background-color: #333333;
+  color: white;
+  height: 150px;
+}
+
 #top {
   padding-top: 100px;
 }
