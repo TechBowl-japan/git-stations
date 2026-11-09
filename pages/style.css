@@ -47,4 +47,13 @@
   color: white;
   background: linear-gradient(to bottom right, #493a40, #2c424d);
 }
+
+footer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background-color: #333333;
+  color: white;
+  height: 150px;
+}
   
